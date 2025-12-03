@@ -33,14 +33,14 @@ A secure, full-featured election management system with real-time vote tallying 
 ## 🔄 System Flowcharts
 
 ### Student Voting Process
-<img width="800" height="8205" alt="student" src="https://github.com/user-attachments/assets/69afe482-f782-453c-9735-7bce09dd624e" />
+<img width="400" height="500" alt="student" src="https://github.com/user-attachments/assets/69afe482-f782-453c-9735-7bce09dd624e" />
 
 *Flowchart showing the step-by-step process for student voting*
 
 ### Admin Management Process  
 
 *Flowchart showing admin functionalities and election management*
-<img width="800" height="1260" alt="admin" src="https://github.com/user-attachments/assets/161087f0-bdf6-4cfc-bf48-5eb5078c1d75" />
+<img width="800" height="600" alt="admin" src="https://github.com/user-attachments/assets/161087f0-bdf6-4cfc-bf48-5eb5078c1d75" />
 
 
 
